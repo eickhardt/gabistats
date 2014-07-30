@@ -1,7 +1,12 @@
 /bootstrap/compiled.php
+/app/storage/cache
+/app/storage/logs
+/app/storage/meta
+/app/storage/sessions
+/app/storage/views
 /vendor
+localsettings.php
 composer.phar
-composer.lock
 .env.*.php
 .env.php
 .DS_Store
