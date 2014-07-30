@@ -1,7 +1,7 @@
 <?php
 
 // Added by Daniel to easily allow for different environment settings
-@require_once(__DIR__."/localsettings.php");
+@require_once(base_path()."localsettings.php");
 
 return array(
 
