@@ -6,7 +6,7 @@
         <meta charset="UTF-8">
 
         <!-- Title is defined in each view -->
-        <title>Gabi Stats HELLO - @yield('title')</title>
+        <title>Gabi Stats - @yield('title')</title>
 
         <!-- Includes -->
         {{ HTML::style('/css/style.css') }}
